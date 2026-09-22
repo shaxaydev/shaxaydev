@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">SHAXA Y. — Full-stack developer</title>
+  <desc id="desc">From idea to working product. A minimal charcoal banner with ivory typography and a blue accent.</desc>
+  <rect width="1200" height="360" rx="16" fill="#111317"/>
+  <rect x="1" y="1" width="1198" height="358" rx="15" stroke="#292D34"/>
+  <path d="M64 70H84" stroke="#879EFF" stroke-width="3"/>
+  <text x="98" y="75" fill="#B3B7C0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">FULL-STACK DEVELOPER</text>
+  <text x="58" y="199" fill="#F3F0E9" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="100" letter-spacing="-6">SHAXA Y<tspan fill="#879EFF">.</tspan></text>
+  <text x="64" y="263" fill="#B3B7C0" font-family="Arial, Helvetica, sans-serif" font-size="25">From idea to working product.</text>
+  <path d="M64 304H1136" stroke="#292D34"/>
+  <text x="64" y="334" fill="#858B97" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">TASHKENT, UZBEKISTAN</text>
+  <text x="1136" y="334" text-anchor="end" fill="#B3B7C0" font-family="Arial, Helvetica, sans-serif" font-size="14">shaxay.dev</text>
+  <g stroke="#363C48" stroke-width="1.5">
+    <path d="M934 97H1094V257H934Z"/>
+    <path d="M910 73H1070V233H910Z"/>
+    <path d="M910 73L934 97M1070 73L1094 97M1070 233L1094 257M910 233L934 257"/>
+  </g>
+  <path d="M966 192L1038 120M982 120H1038V176" stroke="#879EFF" stroke-width="3"/>
+</svg>
