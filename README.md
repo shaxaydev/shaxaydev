@@ -1,9 +1,9 @@
-<a href="https://shaxay.dev/en"><img src="assets/header.svg" alt="SHAXA Y. - Full-stack developer. From idea to working product." width="100%" /></a>
+<a href="https://shaxay.dev/en"><img src="assets/header.svg" alt="SHAXA Y. - Forward Deployed Engineer. From business problem to working product." width="100%" /></a>
 
-I'm **Shakhzod**, a full-stack developer based in Tashkent.
-I build websites, web apps, and the systems behind them - from the first sketch to launch.
+I'm **Shakhzod**, a Forward Deployed Engineer based in Tashkent.
+I work directly with teams to turn business problems into software they can use.
 
-I care about clear interfaces, thoughtful details, and software that makes everyday work easier.
+I shape the workflow, build across the stack, connect the necessary services, and take the product through launch.
 
 [Portfolio](https://shaxay.dev/en) · [Telegram](https://t.me/shaxay) · [Email](mailto:hello@shaxay.dev)
 
